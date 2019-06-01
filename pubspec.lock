@@ -222,10 +222,10 @@ packages:
   webview_flutter:
     dependency: "direct main"
     description:
-      path: "..\\fork\\plugins\\packages\\webview_flutter"
-      relative: true
-    source: path
-    version: "0.3.9+1"
+      name: webview_flutter
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.3.9"
 sdks:
   dart: ">=2.2.0 <3.0.0"
   flutter: ">=0.11.9 <2.0.0"

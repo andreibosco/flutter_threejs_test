@@ -22,9 +22,8 @@ dependencies:
 
   jaguar: ^2.4.36
   jaguar_flutter_asset: ^2.2.0
-  
-  webview_flutter:
-    path: ../fork/plugins/packages/webview_flutter
+  webview_flutter: ^0.3.9
+    # path: ../fork/plugins/packages/webview_flutter
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
